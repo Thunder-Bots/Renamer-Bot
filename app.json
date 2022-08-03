@@ -1,12 +1,12 @@
 {
-  "name": "TELEROID RENAMER BOT",
+  "name": "SSG",
   "description": "",
   "keywords": [
     "Rename"
   ],
-  "success_url": "https://t.me/TeleRoid_RENAMER_BOT",
-  "website": "https://github.com/P-Phreak",
-  "repository": "https://github.com/Josekutte/Renamer-Bot",
+  "success_url": "https://github.com/Thunder-Bots/Renamer-Bot",
+  "website": "https://github.com/Thunder-Bots/Renamer-Botk",
+  "repository": "https://github.com/Thunder-Bots/Renamer-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -35,11 +35,11 @@
     },
     "UPDATE_GROUP": {
       "description": "Your Support Group USERNAME (without @)..",
-      "value": "TeleRoid14"
+      "value": "Movies_Thunder_chat_group"
     },
      "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Don't Change it😎..",
-      "value": "MoviesFlixers_DL"
+      "value": "Best_Movies_Everr"
     },
     "CHUNK_SIZE": {
       "description": "chunk size that should be used with requests",
